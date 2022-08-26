@@ -1,4 +1,4 @@
-baseURL: "http://hugo-quickstart-template.netlify.com" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+baseURL: "qingsusroom.com" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
 title: 青蘇的零極限小房間
 paginate: 5
 theme: PaperMod
